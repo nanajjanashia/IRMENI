@@ -1,0 +1,32 @@
+.container {
+    padding-top: 50px;
+}
+.input-group {
+    margin-bottom: 25px;
+}
+
+#dataTables td{
+	position:relative;
+}
+
+.ajax input{
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 0;
+    cursor: pointer;
+    float: left;
+    height: 20px;
+    margin: 0;
+    width: 100%;
+}
+
+.ajax .focus{
+	border:1px solid #000;
+}
+
+td.details-control {
+    background: url('../images/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('../images/details_close.png') no-repeat center center;
+}

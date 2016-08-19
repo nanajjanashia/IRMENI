@@ -1,0 +1,161 @@
+[02-Jun-2016 07:13:02 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libgio-2.0.so.0: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[02-Jun-2016 07:16:34 America/New_York] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 16384 bytes) in /home/dev1itda/public_html/system/core/Loader.php on line 962
+[02-Jun-2016 07:19:57 America/New_York] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 2560 bytes) in /home/dev1itda/public_html/system/core/CodeIgniter.php on line 101
+[02-Jun-2016 07:33:01 America/New_York] PHP Fatal error:  Out of memory (allocated 1310720) (tried to allocate 1920 bytes) in /home/dev1itda/public_html/system/core/Input.php on line 786
+[02-Jun-2016 08:42:33 America/New_York] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 7
+[02-Jun-2016 10:02:46 America/New_York] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/dev1itda/public_html/application/controllers/Admin.php on line 27
+[02-Jun-2016 10:36:07 America/New_York] PHP Fatal error:  Call to a member function set_message() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 30
+[03-Jun-2016 03:14:56 America/New_York] PHP Fatal error:  Call to a member function set_message() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 30
+[03-Jun-2016 03:59:23 America/New_York] PHP Fatal error:  Call to a member function view() on a non-object in /home/dev1itda/public_html/application/controllers/Gallery.php on line 13
+[03-Jun-2016 05:04:43 America/New_York] PHP Fatal error:  Call to a member function set_message() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 30
+[03-Jun-2016 05:23:58 America/New_York] PHP Fatal error:  Call to a member function set_message() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 30
+[03-Jun-2016 05:24:36 America/New_York] PHP Fatal error:  Call to a member function set_message() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 30
+[03-Jun-2016 05:28:04 America/New_York] PHP Fatal error:  Call to a member function set_message() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 30
+[03-Jun-2016 05:34:18 America/New_York] PHP Fatal error:  Call to a member function set_message() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 34
+[06-Jun-2016 03:02:28 America/New_York] PHP Fatal error:  Call to undefined method CI_Form_validation::has_rule() in /home/dev1itda/public_html/system/helpers/form_helper.php on line 693
+[06-Jun-2016 03:04:27 America/New_York] PHP Fatal error:  Call to undefined method CI_Form_validation::has_rule() in /home/dev1itda/public_html/system/helpers/form_helper.php on line 693
+[06-Jun-2016 03:06:17 America/New_York] PHP Fatal error:  Call to undefined method CI_Form_validation::has_rule() in /home/dev1itda/public_html/system/helpers/form_helper.php on line 693
+[06-Jun-2016 03:06:58 America/New_York] PHP Fatal error:  Call to undefined method CI_Form_validation::has_rule() in /home/dev1itda/public_html/system/helpers/form_helper.php on line 693
+[06-Jun-2016 03:07:00 America/New_York] PHP Fatal error:  Call to undefined method CI_Form_validation::has_rule() in /home/dev1itda/public_html/system/helpers/form_helper.php on line 693
+[06-Jun-2016 03:07:41 America/New_York] PHP Fatal error:  Call to undefined method CI_Form_validation::has_rule() in /home/dev1itda/public_html/system/helpers/form_helper.php on line 693
+[06-Jun-2016 04:29:51 America/New_York] PHP Parse error:  syntax error, unexpected 'table_name' (T_STRING), expecting variable (T_VARIABLE) in /home/dev1itda/public_html/application/models/News_model.php on line 4
+[06-Jun-2016 04:32:01 America/New_York] PHP Fatal error:  Cannot redeclare class news in /home/dev1itda/public_html/application/models/News_model.php on line 15
+[06-Jun-2016 04:34:32 America/New_York] PHP Fatal error:  Call to undefined function dd() in /home/dev1itda/public_html/application/views/pages/news.php on line 96
+[06-Jun-2016 04:41:11 America/New_York] PHP Fatal error:  Call to undefined function priont_r() in /home/dev1itda/public_html/application/views/pages/news.php on line 109
+[06-Jun-2016 04:41:25 America/New_York] PHP Fatal error:  Call to undefined function priont_r() in /home/dev1itda/public_html/application/views/pages/news.php on line 109
+[06-Jun-2016 04:43:10 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dev1itda/public_html/application/views/pages/news.php on line 109
+[06-Jun-2016 04:57:03 America/New_York] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news.php on line 113
+[06-Jun-2016 04:58:03 America/New_York] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news.php on line 114
+[06-Jun-2016 04:58:06 America/New_York] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news.php on line 114
+[06-Jun-2016 04:59:03 America/New_York] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news.php on line 114
+[06-Jun-2016 04:59:06 America/New_York] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news.php on line 114
+[06-Jun-2016 04:59:06 America/New_York] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news.php on line 114
+[06-Jun-2016 04:59:07 America/New_York] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news.php on line 114
+[06-Jun-2016 04:59:14 America/New_York] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news.php on line 114
+[06-Jun-2016 04:59:19 America/New_York] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news.php on line 114
+[06-Jun-2016 06:07:42 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/dev1itda/public_html/application/views/pages/news-detail.php on line 17
+[06-Jun-2016 06:08:00 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/dev1itda/public_html/application/views/pages/news-detail.php on line 17
+[06-Jun-2016 08:53:35 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[06-Jun-2016 08:53:35 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot create shared object descriptor in Unknown on line 0
+[06-Jun-2016 08:53:35 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot create shared object descriptor in Unknown on line 0
+[06-Jun-2016 08:53:35 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: cannot create shared object descriptor in Unknown on line 0
+[06-Jun-2016 08:53:35 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot create shared object descriptor in Unknown on line 0
+[06-Jun-2016 08:53:35 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/uploadprogress.so: cannot create shared object descriptor in Unknown on line 0
+[06-Jun-2016 08:53:35 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot create shared object descriptor in Unknown on line 0
+[06-Jun-2016 09:16:41 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/dev1itda/public_html/application/views/admin/pages/footer.php on line 2
+[07-Jun-2016 05:35:35 America/New_York] PHP Fatal error:  Call to a member function getNews() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 142
+[07-Jun-2016 05:36:26 America/New_York] PHP Fatal error:  Call to a member function getNews() on a non-object in /home/dev1itda/public_html/application/controllers/Admin.php on line 143
+[07-Jun-2016 05:41:55 America/New_York] PHP Fatal error:  Call to undefined function dd() in /home/dev1itda/public_html/application/views/admin/pages/news.php on line 14
+[07-Jun-2016 06:35:19 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/dev1itda/public_html/application/views/admin/pages/news.php on line 39
+[07-Jun-2016 06:37:00 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/dev1itda/public_html/application/views/admin/pages/news.php on line 39
+[07-Jun-2016 09:20:40 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/dev1itda/public_html/application/views/admin/pages/editNews.php on line 49
+[07-Jun-2016 09:22:36 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/dev1itda/public_html/application/views/admin/pages/editNews.php on line 49
+[07-Jun-2016 12:49:57 America/New_York] PHP Fatal error:  Cannot redeclare Admin_model::updateNews() in /home/dev1itda/public_html/application/models/Admin_model.php on line 30
+[08-Jun-2016 03:05:27 America/New_York] PHP Fatal error:  Cannot redeclare Admin_model::updateNews() in /home/dev1itda/public_html/application/models/Admin_model.php on line 30
+[08-Jun-2016 05:59:18 America/New_York] PHP Fatal error:  Call to undefined method Admin_model::getGalleries() in /home/dev1itda/public_html/application/controllers/Gallery.php on line 14
+[08-Jun-2016 05:59:43 America/New_York] PHP Fatal error:  Call to a member function getGalleries() on a non-object in /home/dev1itda/public_html/application/controllers/Gallery.php on line 14
+[08-Jun-2016 06:09:06 America/New_York] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev1itda/public_html/application/views/pages/gallery.php on line 126
+[09-Jun-2016 04:40:30 America/New_York] PHP Fatal error:  Call to a member function getAbout() on a non-object in /home/dev1itda/public_html/application/controllers/About.php on line 13
+[09-Jun-2016 05:11:37 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home/dev1itda/public_html/application/models/Admin_model.php on line 51
+[09-Jun-2016 05:20:57 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home/dev1itda/public_html/application/models/Admin_model.php on line 51
+[09-Jun-2016 05:21:10 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home/dev1itda/public_html/application/models/Admin_model.php on line 51
+[09-Jun-2016 05:21:54 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home/dev1itda/public_html/application/models/Admin_model.php on line 51
+[09-Jun-2016 05:27:15 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home/dev1itda/public_html/application/models/Admin_model.php on line 51
+[10-Jun-2016 03:00:58 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dev1itda/public_html/application/views/admin/pages/contact.php on line 22
+[10-Jun-2016 03:02:54 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/views/admin/pages/contact.php on line 65
+[10-Jun-2016 06:30:16 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/dev1itda/public_html/application/views/pages/services.php on line 109
+[10-Jun-2016 06:30:33 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/dev1itda/public_html/application/views/pages/services.php on line 113
+[10-Jun-2016 06:35:42 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dev1itda/public_html/application/views/pages/services.php on line 117
+[10-Jun-2016 07:58:55 America/New_York] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev1itda/public_html/application/views/pages/service-detail.php on line 117
+[10-Jun-2016 07:59:18 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/dev1itda/public_html/application/views/pages/service-detail.php on line 118
+[10-Jun-2016 07:59:31 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/dev1itda/public_html/application/views/pages/service-detail.php on line 118
+[10-Jun-2016 08:05:39 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dev1itda/public_html/application/views/pages/service-detail.php on line 109
+[10-Jun-2016 11:05:49 America/New_York] PHP Fatal error:  Cannot redeclare Tours::index() in /home/dev1itda/public_html/application/controllers/Tours.php on line 18
+[13-Jun-2016 03:04:30 America/New_York] PHP Fatal error:  Call to a member function getWeather() on a non-object in /home/dev1itda/public_html/application/controllers/Home.php on line 15
+[13-Jun-2016 05:20:02 America/New_York] PHP Fatal error:  Call to a member function GetCurrency() on a non-object in /home/dev1itda/public_html/application/controllers/Home.php on line 23
+[13-Jun-2016 05:20:25 America/New_York] PHP Fatal error:  Call to a member function GetCurrencyDescription() on a non-object in /home/dev1itda/public_html/application/controllers/Home.php on line 22
+[13-Jun-2016 05:23:08 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/dev1itda/public_html/application/views/common/header.php on line 22
+[13-Jun-2016 05:35:18 America/New_York] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER), expecting ',' or ';' in /home/dev1itda/public_html/application/views/common/header.php on line 25
+[13-Jun-2016 09:39:50 America/New_York] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/dev1itda/public_html/application/models/Admin_model.php on line 107
+[13-Jun-2016 09:40:05 America/New_York] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/dev1itda/public_html/application/models/Admin_model.php on line 107
+[14-Jun-2016 04:31:15 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/dev1itda/public_html/application/views/admin/pages/editService.php on line 13
+[14-Jun-2016 07:48:32 America/New_York] PHP Fatal error:  Cannot redeclare Admin::addNews() in /home/dev1itda/public_html/application/controllers/Admin.php on line 387
+[14-Jun-2016 10:53:43 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/dev1itda/public_html/application/views/admin/pages/gallery.php on line 33
+[15-Jun-2016 08:25:41 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/application/core/MY_Controller.php on line 46
+[15-Jun-2016 08:25:42 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/application/core/MY_Controller.php on line 46
+[15-Jun-2016 08:26:34 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/application/core/MY_Controller.php on line 46
+[15-Jun-2016 08:29:51 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/application/core/MY_Controller.php on line 46
+[15-Jun-2016 08:29:52 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/application/core/MY_Controller.php on line 46
+[15-Jun-2016 08:31:52 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/application/core/MY_Controller.php on line 46
+[15-Jun-2016 08:31:53 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/application/core/MY_Controller.php on line 46
+[15-Jun-2016 08:35:47 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/application/core/MY_Controller.php on line 46
+[15-Jun-2016 08:35:48 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/application/core/MY_Controller.php on line 46
+[15-Jun-2016 10:18:22 America/New_York] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/dev1itda/public_html/application/views/pages/gallery.php on line 46
+[15-Jun-2016 10:26:50 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/dev1itda/public_html/application/views/pages/gallery.php on line 44
+[16-Jun-2016 06:26:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/homeloader.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/homeloader.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jun-2016 06:37:16 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/dev1itda/public_html/application/views/common/footer.php on line 122
+[16-Jun-2016 15:13:24 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/dev1itda/public_html/application/controllers/Contact.php on line 64
+[16-Jun-2016 15:14:10 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/dev1itda/public_html/application/controllers/Contact.php on line 64
+[16-Jun-2016 15:14:57 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/dev1itda/public_html/application/controllers/Contact.php on line 64
+[16-Jun-2016 15:15:00 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/dev1itda/public_html/application/controllers/Contact.php on line 64
+[16-Jun-2016 15:15:03 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/dev1itda/public_html/application/controllers/Contact.php on line 64
+[16-Jun-2016 16:22:56 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dev1itda/public_html/application/controllers/Contact.php on line 38
+[17-Jun-2016 02:30:22 America/New_York] PHP Fatal error:  Call to a member function print_debgger() on a non-object in /home/dev1itda/public_html/application/controllers/Contact.php on line 50
+[17-Jun-2016 02:32:34 America/New_York] PHP Fatal error:  Call to a member function print_debgger() on a non-object in /home/dev1itda/public_html/application/controllers/Contact.php on line 50
+[17-Jun-2016 02:54:06 America/New_York] PHP Fatal error:  Call to undefined method Contact::loadPhpMailer() in /home/dev1itda/public_html/application/controllers/Contact.php on line 147
+[17-Jun-2016 06:41:02 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dev1itda/public_html/application/views/pages/tours-detail.php on line 44
+[17-Jun-2016 06:43:26 America/New_York] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/tours-detail.php on line 20
+[17-Jun-2016 08:31:12 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dev1itda/public_html/application/controllers/Contact.php on line 32
+[17-Jun-2016 08:43:19 America/New_York] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting identifier (T_STRING) in /home/dev1itda/public_html/application/controllers/Contact.php on line 35
+[20-Jun-2016 06:49:45 America/New_York] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev1itda/public_html/application/views/home/home.php on line 355
+[20-Jun-2016 06:49:46 America/New_York] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev1itda/public_html/application/views/home/home.php on line 355
+[20-Jun-2016 06:50:03 America/New_York] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev1itda/public_html/application/views/home/home.php on line 355
+[20-Jun-2016 06:50:05 America/New_York] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev1itda/public_html/application/views/home/home.php on line 355
+[20-Jun-2016 06:50:38 America/New_York] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev1itda/public_html/application/views/home/home.php on line 355
+[20-Jun-2016 06:50:39 America/New_York] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev1itda/public_html/application/views/home/home.php on line 355
+[20-Jun-2016 07:14:25 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/application/views/home/home.php on line 380
+[20-Jun-2016 07:49:53 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/views/admin/pages/editTour.php on line 209
+[20-Jun-2016 07:49:59 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/views/admin/pages/editTour.php on line 209
+[21-Jun-2016 09:44:27 America/New_York] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dev1itda/public_html/application/models/Admin_model.php on line 145
+[21-Jun-2016 09:45:16 America/New_York] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dev1itda/public_html/application/models/Admin_model.php on line 145
+[21-Jun-2016 09:45:45 America/New_York] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/dev1itda/public_html/application/models/Admin_model.php on line 145
+[21-Jun-2016 09:47:35 America/New_York] PHP Parse error:  syntax error, unexpected 'vv' (T_STRING), expecting function (T_FUNCTION) in /home/dev1itda/public_html/application/models/Admin_model.php on line 150
+[22-Jun-2016 08:33:18 America/New_York] PHP Fatal error:  Cannot redeclare class Home_model in /home/dev1itda/public_html/application/models/Rooms_model.php on line 14
+[23-Jun-2016 06:06:35 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/dev1itda/public_html/application/models/Rooms_model.php on line 17
+[23-Jun-2016 06:07:50 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/dev1itda/public_html/application/models/Rooms_model.php on line 17
+[24-Jun-2016 09:04:36 America/New_York] PHP Fatal error:  Call to undefined method Admin_model::getRoom() in /home/dev1itda/public_html/application/controllers/Admin.php on line 486
+[24-Jun-2016 11:40:11 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/views/admin/pages/editRoom.php on line 307
+[24-Jun-2016 11:40:12 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/views/admin/pages/editRoom.php on line 307
+[24-Jun-2016 11:40:21 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/views/admin/pages/editRoom.php on line 97
+[24-Jun-2016 11:40:22 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/views/admin/pages/editRoom.php on line 97
+[24-Jun-2016 17:24:13 America/New_York] PHP Fatal error:  Call to undefined method Rooms_model::getRooms() in /home/dev1itda/public_html/application/controllers/Rooms.php on line 13
+[24-Jun-2016 17:30:05 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::qyery() in /home/dev1itda/public_html/application/models/Rooms_model.php on line 23
+[24-Jun-2016 17:54:53 America/New_York] PHP Parse error:  syntax error, unexpected ''</ul>	' (T_ENCAPSED_AND_WHITESPACE) in /home/dev1itda/public_html/application/views/pages/rooms.php on line 47
+[25-Jun-2016 08:15:45 America/New_York] PHP Fatal error:  Cannot redeclare Admin_model::deleteService() in /home/dev1itda/public_html/application/models/Admin_model.php on line 208
+[25-Jun-2016 08:57:14 America/New_York] PHP Parse error:  syntax error, unexpected '' order by id desc'' (T_CONSTANT_ENCAPSED_STRING) in /home/dev1itda/public_html/application/models/Home_model.php on line 63
+[25-Jun-2016 08:57:50 America/New_York] PHP Parse error:  syntax error, unexpected '' order by r.id desc'' (T_CONSTANT_ENCAPSED_STRING) in /home/dev1itda/public_html/application/models/Home_model.php on line 63
+[25-Jun-2016 08:58:58 America/New_York] PHP Parse error:  syntax error, unexpected '' order by r.id desc'' (T_CONSTANT_ENCAPSED_STRING) in /home/dev1itda/public_html/application/models/Home_model.php on line 63
+[25-Jun-2016 09:14:03 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/dev1itda/public_html/application/views/home/home.php on line 19
+[25-Jun-2016 09:22:57 America/New_York] PHP Fatal error:  Call to undefined method Home_model::getfoterRooms() in /home/dev1itda/public_html/application/core/MY_Controller.php on line 51
+[25-Jun-2016 09:22:59 America/New_York] PHP Fatal error:  Call to undefined method Home_model::getfoterRooms() in /home/dev1itda/public_html/application/core/MY_Controller.php on line 51
+[25-Jun-2016 09:23:04 America/New_York] PHP Fatal error:  Call to undefined method Home_model::getfoterRooms() in /home/dev1itda/public_html/application/core/MY_Controller.php on line 51
+[26-Jun-2016 07:36:25 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dev1itda/public_html/application/controllers/Rooms.php on line 53
+[26-Jun-2016 07:37:40 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/controllers/Rooms.php on line 52
+[26-Jun-2016 09:06:06 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/dev1itda/public_html/application/views/pages/room-booking.php on line 18
+[27-Jun-2016 08:32:49 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/dev1itda/public_html/application/views/admin/pages/topImage.php on line 14
+[27-Jun-2016 09:32:13 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/dev1itda/public_html/application/views/common/meta.php on line 23
+[27-Jun-2016 09:33:12 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/dev1itda/public_html/application/views/common/meta.php on line 23
+[27-Jun-2016 15:59:47 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/dev1itda/public_html/application/views/pages/gallery-album.php on line 29
+[28-Jun-2016 11:56:39 America/New_York] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/dev1itda/public_html/application/language/english/about_lang.php on line 58
+[28-Jun-2016 11:56:40 America/New_York] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/dev1itda/public_html/application/language/english/about_lang.php on line 58
+[29-Jun-2016 05:31:40 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/dev1itda/public_html/application/views/pages/news-detail.php on line 4
+[29-Jun-2016 05:58:16 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickCore.so.4: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Jun-2016 05:58:16 America/New_York] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 12288 bytes) in /home/dev1itda/public_html/system/libraries/Form_validation.php on line 110
+[29-Jun-2016 05:58:17 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickCore.so.4: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[29-Jun-2016 08:15:17 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/dev1itda/public_html/application/views/admin/pages/contact.php on line 74
+[29-Jun-2016 10:43:22 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/views/admin/pages/editTour.php on line 124
+[29-Jun-2016 10:56:37 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/application/views/admin/pages/editTour.php on line 266
+[29-Jun-2016 11:00:46 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/dev1itda/public_html/application/views/admin/pages/editTour.php on line 413
+[01-Jul-2016 07:23:42 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/dev1itda/public_html/application/language/english/about_lang.php on line 35
+[18-Jul-2016 07:05:59 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::get_compiled_select_where() in /home/dev1itda/public_html/application/models/Admin_model.php on line 83
+[20-Jul-2016 09:54:16 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/dev1itda/public_html/application/views/admin/pages/editRoom.php on line 201
